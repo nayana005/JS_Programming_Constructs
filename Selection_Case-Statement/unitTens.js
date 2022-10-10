@@ -13,6 +13,6 @@ var number = 10;
         console.log("Thousands");
         break;
     default:
-        console.log("Enter valid number")
+        console.log("Enter number in units")
         break;
 }

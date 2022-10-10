@@ -1,4 +1,4 @@
-var num = 5;
+var num = 3;
 switch(num){
     case 0:
         console.log("ZERO");
