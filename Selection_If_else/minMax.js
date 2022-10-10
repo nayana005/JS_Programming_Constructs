@@ -20,5 +20,5 @@ if (num3 > max) {
     min = num3;
 }
 
-console.log("minimum = ",min);
-console.log("maximum = ",max);
+console.log("minimum = ", min);
+console.log("maximum = ", max);
